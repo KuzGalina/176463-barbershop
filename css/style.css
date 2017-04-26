@@ -1,0 +1,67 @@
+body{
+	font-size:14px;
+	line-height:24px;
+	color:#000000;
+	text-transform:uppercase;
+}
+
+.main-nav {
+	font-size: 16px;
+	line-height: 20px;
+	color: #ffffff;
+		
+}
+
+.catalog-title {
+	font-size: 30px;
+	line-height: 42px;
+}
+
+.breadcrumbs {
+	font-size: 30px;
+	line-height: 42px;
+}
+
+.filter-subtitle {
+	font-size: 24px;
+	line-height: 30px;
+		
+}
+
+form label {
+	font-size: 14px;
+	line-height: 18px;	
+}
+
+.btn{
+	font-size: 13px;
+	line-height: 18px;
+	color: #ffffff;	
+}
+
+.price {
+	font-size: 14px;
+	line-height: 18px;
+		
+}
+
+.paginator {
+	font-size: 14px;
+	line-height: 18px;
+	color: #ffffff;	
+}
+
+.page-title {
+	font-size: 30px;
+	line-height: 42px;
+		
+}
+
+.composition-subtitle {
+	font-size: 24px;
+	line-height: 30px;	
+}
+
+.main-footer {
+	color: #ffffff;	
+}
